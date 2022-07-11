@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #78ebfa;
+}
+
+.navbar-brand {
+  font-family: georgia;
+  font-style: Bold;
+}
+.display-4 {
+  font-family: comic sans ms;
+  font-size: 40px;
+}
+
+#gallery {
+  background-color: #78ebfa;
+}
+
+section {
+  padding-top: 7rem;
+}
